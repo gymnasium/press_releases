@@ -1,4 +1,6 @@
-[![Gymnasium Logo](https://cdn.rawgit.com/gymnasium/gymnasium.github.io/master/assets/GYM-logo.svg)](http://thegymnasium.com)
+[![Gymnasium Logo](http://gymnasium.github.io/assets/GYM-logo.svg)](http://thegymnasium.com)
 
-# press_releases
-Aquent Gymnasium Press Releases
+# Aquent Gymnasium Press Releases
+
+- September 8, 2016
+  - [Web Design is Hard](https://gymnasium.github.io/press_releases/Web_Design_is_Hard/)
