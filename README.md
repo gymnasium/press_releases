@@ -1,9 +1,4 @@
 [![Gymnasium Logo](http://gymnasium.github.io/assets/GYM-logo.svg)](http://thegymnasium.com)
 
-# Aquent Gymnasium Press Releases
+This is just a redirector to the actual press releases that live here: https://gymnasium.github.io/pr/web_design_is_hard
 
-- October 14, 2016
-    - [Modern Web Design](https://gymnasium.github.io/press_releases/Modern_Web_Design/)
-
-- September 8, 2016
-  - [Web Design is Hard](https://gymnasium.github.io/press_releases/Web_Design_is_Hard/)
